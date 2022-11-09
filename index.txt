@@ -1,0 +1,51 @@
+Music Player
+
+A web music player html template made by codewithsadee
+
+
+
+#---------- TOP APP BAR ----------#
+
+<span class="material-symbols-rounded">graphic_eq</span>
+
+Music Player
+
+<span class="material-symbols-rounded">queue_music</span>
+
+
+
+#---------- PLAYER ----------#
+
+alt = Happy Moments (Master) Album Poster
+
+Happy Moments (Master)
+
+No Spirit
+2022
+
+No Spirit x Tonion
+
+0:00
+1:00
+
+<span class="material-symbols-rounded">volume_up</span>
+
+<span class="material-symbols-rounded">repeat</span>
+<span class="material-symbols-rounded active-icon">repeat_one</span>
+
+<span class="material-symbols-rounded">skip_previous</span>
+
+<span class="material-symbols-rounded">play_arrow</span>
+<span class="material-symbols-rounded active-icon">pause</span>
+
+<span class="material-symbols-rounded">skip_next</span>
+
+<span class="material-symbols-rounded">shuffle</span>
+
+
+
+#---------- PLAYLIST ----------#
+
+alt = Happy Moments (Master) Album Poster
+
+<span class="material-symbols-rounded">equalizer</span>
